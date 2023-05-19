@@ -1,4 +1,4 @@
-# Com3240 - Adative Intelligence assignment
+# COM3240 - Adative Intelligence assignment
 
 Charalambos Georgiades
 
